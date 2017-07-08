@@ -1,10 +1,11 @@
-Policies
-========
+Normas del Espacio
+==================
 
-Mirror of policies for the Stumptown Syndicate. 
+Normas de relacionamiento para los espacios que guie y organize ILDA.
 
-* [Citizen Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
-* [Syndicate Code of Conduct](syndicate_code_of_conduct.md): Stumptown Syndicate specific Code of Conduct.
-* [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Stumptown Syndicate Code of Conduct.
+* [Citizen Code of Conduct](citizen_code_of_conduct.md): Plantilla del [código de conducta](http://citizencodeofconduct.org/) usado en varios grupos, proyectos y eventos. En ingles. 
+* [Código de Conducta Base para Talleres](ilda_code_of_conduct.md): Código de conducta usado para talleres.
+* [Reporting Guidelines](reporting_guidelines.md): Lineamientos y guias para denunciar cuando se quiebre el código de conductas.
 
-Questions or comments? Get in touch with us board@stumptownsyndicate.org.
+
+Preguntas y comentarios a XXX.
